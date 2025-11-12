@@ -5,3 +5,11 @@ export const metadata: Metadata = {
   description: "AI-Powered Document Management & Chat Platform - Transform your documents into intelligent conversations with AI",
 };
 
+export default function SimpliDocAILayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return <>{children}</>;
+}
+
