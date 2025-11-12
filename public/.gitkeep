@@ -1,0 +1,20 @@
+# Public Directory
+
+This directory contains static assets served by Next.js.
+
+## Assets Folder
+
+Please copy or move the `Assets` folder from the project root to this `public` directory:
+
+```
+public/
+  └── Assets/
+      ├── Screenshot_1753022232.png
+      ├── Screenshot_1753022226.png
+      └── ... (other screenshots)
+```
+
+Alternatively, you can create a symlink:
+- Linux/Mac: `ln -s ../Assets public/Assets`
+- Windows: `mklink /D public\Assets ..\Assets`
+
