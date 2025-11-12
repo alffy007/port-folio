@@ -60,7 +60,7 @@ export function PersonalHero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-5xl md:text-7xl font-bold mb-6 gradient-text"
         >
-          Hi, I'm Alfred
+          Hi, I&apos;m Alfred
         </motion.h1>
 
         <motion.p

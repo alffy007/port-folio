@@ -42,12 +42,12 @@ export function AboutSection() {
               Full Stack Developer
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4 leading-relaxed">
-              I'm a passionate full-stack developer with expertise in building modern web and mobile applications. 
+              I&apos;m a passionate full-stack developer with expertise in building modern web and mobile applications. 
               I love working with cutting-edge technologies and creating solutions that make a difference.
             </p>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
               My focus is on creating scalable, maintainable code while delivering exceptional user experiences. 
-              I'm particularly interested in AI/ML integration and building intelligent applications that solve real-world problems.
+              I&apos;m particularly interested in AI/ML integration and building intelligent applications that solve real-world problems.
             </p>
           </motion.div>
 

@@ -30,7 +30,7 @@ export function ProjectsSection() {
             Featured Projects
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            A collection of projects I've built with modern technologies and best practices
+            A collection of projects I&apos;ve built with modern technologies and best practices
           </p>
         </motion.div>
 

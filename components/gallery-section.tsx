@@ -51,6 +51,7 @@ export function GallerySection() {
               whileHover={{ scale: 1.02, y: -5 }}
               className="relative rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-shadow group bg-gray-100 dark:bg-gray-800 flex items-center justify-center"
             >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={screenshot}
                 alt={`Screenshot ${index + 1}`}

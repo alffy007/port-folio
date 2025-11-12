@@ -14,7 +14,7 @@ export function Footer() {
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <h3 className="text-xl font-bold mb-4 gradient-text">Alfred's Portfolio</h3>
+            <h3 className="text-xl font-bold mb-4 gradient-text">Alfred&apos;s Portfolio</h3>
             <p className="text-gray-400">
               Full Stack Developer & AI Enthusiast. Building modern, scalable applications with cutting-edge technologies.
             </p>
